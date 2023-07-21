@@ -1,3 +1,11 @@
+###  Link to Vercel where you can view the app
+
+```
+https://tmdb-react-typescript.vercel.app/
+```
+
+
+
 ![Untitled](https://user-images.githubusercontent.com/90575221/209014286-456ab043-44c3-4cab-b813-ce7cc117eb94.png)
 ![Untitled png1](https://user-images.githubusercontent.com/90575221/209014320-cc679cc8-1569-4955-98a6-26cd50dd80ab.png)
 ![Untitled png2](https://user-images.githubusercontent.com/90575221/209014351-ace38796-e34f-40ca-8948-1a252ca68c7d.png)
